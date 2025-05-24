@@ -1,0 +1,3 @@
+ESTE É MEU TRABALHO DA AULA 3# DSBD
+adicionando uma nova linha para testar o git status
+adicionando outra linha para testar novamente o git status
